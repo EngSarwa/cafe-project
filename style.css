@@ -1,1 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #4e2b21;
+       color: #f5f0e6; 
+    text-align: center;
+}
+h1, h2 {
+    font-family: "Trebuchet MS", Arial, sans-serif;
+    color: #f3e6d0;
+}
+p, td, label {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 15px;
+}
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+table {
+    width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    color: #fff;
+}
+
+th {
+    background-color: #7a4a32;
+    font-size: 18px;
+}
+
+td {
+    padding: 10px;
+    border-bottom: 1px dashed #d2b48c;
+}
+
+form {
+    background-color: #6b3f2a;
+    padding: 15px;
+    width: 40%;
+    margin: auto;
+}
+
+input, select {
+    font-family: Arial, sans-serif;
+    padding: 6px;
+}
+.cafe-img {
+    width: 190px;
+    border-radius: 10px;
+    margin: 20px auto;
+    display: block;
+}
+
+
 
